@@ -26,3 +26,6 @@ Atualização de Contato
 Atualização de Organizações
 
 Atualização de Dominios
+
+Segue os método de como usar a biblioteca
+https://github.com/ivanteles/EppLib.NicBR/wiki
